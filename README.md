@@ -26,6 +26,7 @@ Coders will:
 <head>
   <style>
     /* CSS here */
+    link rel="stylesheet" href="style.css"
   </style>
 </head>
 ```
